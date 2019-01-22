@@ -5,7 +5,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config>
     <!--服务器地址:端口-->
-    <address>47.99.243.186:2010</address>
+    <address>ip:port</address>
     <!--修改成报告存放目录-->
     <repertory>/data/server/upp/upload</repertory>
     <!--允许上传文件minetype-->
