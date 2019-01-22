@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <address>ip:port</address>
+    <repertory>/data/server/upp/upload</repertory>
+    <allow>
+        <contentType>image/png</contentType>
+        <contentType>image/jpeg</contentType>
+        <contentType>application/pdf</contentType>
+    </allow>
+</config>
